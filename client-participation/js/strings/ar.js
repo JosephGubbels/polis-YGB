@@ -5,7 +5,7 @@ var s = {};
 
 // for right to left languages
 s.direction = "rtl";
-
+//comment
 // Text on the card
 
 s.participantHelpWelcomeText = " أهلاً بكم في نوع جديد من النقاشات، </em> صوت <em> على إفادات الأشخاص الآخرين";
